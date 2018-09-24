@@ -1,4 +1,4 @@
-# Magic-Square
+# Magic-Squares
 Project for COP3503 Programming Fundamentals 2
 
 ASSIGNMENT:
